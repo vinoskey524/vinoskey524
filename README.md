@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Hamet
+### 👋 Hi, I'm Hamet 🇧🇯
 
 Full-Stack Software Engineer
 
