@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Hamet
 
-<!--
-**vinoskey524/vinoskey524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building efficient and scalable applications.
+I use React and React Native (Bare & Expo) to craft intuitive interfaces, and Node.js/Bun/Deno + PostgreSQL to manage robust backends.
+
+I’m also a System Administrator (Windows Server & Ubuntu Server) and a Network Administrator (Cisco & MikroTik), which helps me integrate DevOps practices for seamless deployments and network management.
+
+🛠️ Tech Stack
+
+- Frontend: React, React Native, TypeScript, Vite
+
+- Backend: Bun, Deno, Node.js, Express, PostgreSQL
+
+- DevOps: Docker, Nginx, Caddy, CI/CD
+
+- SysAdmin: Windows Server, Ubuntu Server
+
+- Network: Cisco, MikroTik
+
+📦 My Packages
+
+Find all of them on [package524](https://package524.vercel.app).
+
+🌱 Learning
+
+Am learning Rust (for wasm and backend) and Go (for backend).
+
+💬 Let’s Connect
+
+- 📫 [vinoskey524@gmail.com](vinoskey524@gmail.com)
+
+- bsky/vinsokey524
+
