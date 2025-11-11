@@ -15,7 +15,7 @@ I’m also a System Administrator (Windows Server & Ubuntu Server) and a Network
 
 - Backend: Bun, Deno, Node.js, Express, PostgreSQL
 
-- DevOps: Docker, Nginx, Caddy, CI/CD
+- DevOps: Docker, Nginx, Caddy
 
 - SysAdmin: Windows Server, Ubuntu Server
 
