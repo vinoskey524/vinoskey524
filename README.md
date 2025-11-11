@@ -31,7 +31,7 @@ Am learning Rust (for wasm and backend) and Go (for backend).
 
 ### 💬 Let’s Connect
 
-- 📫 [vinoskey524@gmail.com](vinoskey524@gmail.com)
+- 📫 [vinoskey524@gmail.com](mailto:vinoskey524@gmail.com)
 
 - 🦋 [bsky/vinoskey524](https://bsky.app/profile/vinoskey524.bsky.social)
 
