@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hamet 🇧🇯
 
-Full-Stack Software Engineer | <a href="https://vinoskey524.vercel.app" target="_blank">vinoskey524</a>
+Full-Stack Software Engineer | <a href="https://vinoskey524.vercel.app" target="_blank">@vinoskey524</a>
 
 ### ⁉️ About Me
 
