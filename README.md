@@ -23,7 +23,7 @@ I’m also a System Administrator (Windows Server & Ubuntu Server) and a Network
 
 ### 📦 My Packages
 
-Find all of them on [package524](https://package524.vercel.app).
+Find all of them on <a href="https://package524.vercel.app" target="_blank">package524</a>.
 
 ### 🌱 Learning
 
@@ -33,5 +33,5 @@ Am learning Rust (for wasm and backend) and Go (for backend).
 
 - 📫 [vinoskey524@gmail.com](mailto:vinoskey524@gmail.com)
 
-- 🦋 [bsky/vinoskey524](https://bsky.app/profile/vinoskey524.bsky.social)
+- 🦋 <a href="https://bsky.app/profile/vinoskey524.bsky.social" target="_blank">bsky/vinoskey524</a>
 
