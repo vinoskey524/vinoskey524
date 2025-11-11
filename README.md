@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer
 
-### 🧠 About Me
+### ⁉️ About Me
 
 I’m passionate about building efficient and scalable applications.
 I use React and React Native (Bare & Expo) to craft intuitive interfaces, and Node.js/Bun/Deno + PostgreSQL to manage robust backends.
@@ -25,7 +25,7 @@ I’m also a System Administrator (Windows Server & Ubuntu Server) and a Network
 
 Find all of them on <a href="https://package524.vercel.app" target="_blank">package524</a>.
 
-### 🌱 Learning
+### 📚 Learning
 
 Am learning Rust (for wasm and backend) and Go (for backend).
 
