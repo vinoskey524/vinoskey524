@@ -33,5 +33,5 @@ Am learning Rust (for wasm and backend) and Go (for backend).
 
 - 📫 [vinoskey524@gmail.com](vinoskey524@gmail.com)
 
-- bsky/vinsokey524
+- 🦋 [bsky/vinoskey524](https://bsky.app/profile/vinoskey524.bsky.social)
 
