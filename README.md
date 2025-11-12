@@ -27,7 +27,7 @@ Find all of them on <a href="https://package524.vercel.app" target="_blank">pack
 
 ### 📚 Learning
 
-Am learning Rust (for wasm and backend) and Go (for backend).
+I'm learning Rust (for wasm and backend) and Go (for backend).
 
 ### 💬 Let’s Connect
 
