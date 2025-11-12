@@ -11,15 +11,15 @@ I’m also a System Administrator (Windows Server & Ubuntu Server) and a Network
 
 ### 🛠️ Tech Stack
 
-- Frontend: React, React Native, TypeScript, Vite
+- **Frontend:** React, React Native, TypeScript, Vite
 
-- Backend: Bun, Deno, Node.js, Express, PostgreSQL
+- **Backend:** Bun, Deno, Node.js, Express, PostgreSQL
 
-- DevOps: Docker, Nginx, Caddy
+- **DevOps:** Docker, Nginx, Caddy
 
-- SysAdmin: Windows Server, Ubuntu Server
+- **SysAdmin:** Windows Server, Ubuntu Server
 
-- Network: Cisco, MikroTik
+- **Network:** Cisco, MikroTik
 
 ### 📦 My Packages
 
