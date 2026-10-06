@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/~vinoskey524"><img src="https://img.shields.io/badge/npm-vinoskey524-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
   <a href="https://package524.vercel.app/"><img src="https://img.shields.io/badge/package524-open--source-2F6FED?style=for-the-badge" alt="package524" /></a>
-  <a href="https://komex-test.vercel.app"><img src="https://img.shields.io/badge/Komex-live%20demo-0B1B33?style=for-the-badge" alt="Komex live demo" /></a>
+  <a href="https://voicify-demo.vercel.app/"><img src="https://img.shields.io/badge/Voicify-live%20demo-0B1B33?style=for-the-badge" alt="Voicify live demo" /></a>
   <a href="mailto:vinoskey524@gmail.com"><img src="https://img.shields.io/badge/Email-vinoskey524%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -56,39 +56,15 @@ I take features end to end, from database schema and APIs to polished, high-perf
 
 ## 🤖 AI-assisted development
 
-- I use AI coding assistants and LLM tools across the build cycle: scaffolding features, debugging, refactoring, writing tests, and drafting documentation, to build apps faster and iterate quickly.
+- I use AI coding assistants across the build cycle: scaffolding features, debugging, refactoring, writing tests, and drafting documentation, to build apps faster and iterate quickly.
 - I treat AI output as a first draft: I review, test, and take ownership of every change before it ships.
 - I combine AI-accelerated workflows with strong fundamentals in TypeScript, React, and PostgreSQL to deliver reliable, user-facing products with a small team.
 
-## 🛒 Komex
+## 🔊 Voicify
 
-**Komex** is an e-commerce platform I designed and built as an alternative to Shopify.
+**[Voicify](https://github.com/vinoskey524/voicify)** is a TypeScript text-to-speech library for web pages.
 
-🔗 **Live demo:** visit and test it at [komex-test.vercel.app](https://komex-test.vercel.app)
-
-<details>
-<summary><b>🎬 Video tutorials (in French): 16-part series</b></summary>
-
-<br />
-
-1. [Présentation](https://rumble.com/shorts/v7gdtge)
-2. [Créer une boutique](https://rumble.com/shorts/v7gdv3o)
-3. [Créer un produit](https://rumble.com/v7gdva0-3.-creer-un-product.html)
-4. [Modèle de tarification](https://rumble.com/v7gdvf8-4.-modele-de-tarification.html)
-5. [Ajouter des options à un produit](https://rumble.com/v7gdvkc-5.-ajouter-des-options-a-un-produit.html)
-6. [Prix personnalisé par région](https://rumble.com/v7gdvsy-6.-prix-personnalise-par-region.html)
-7. [Mettre un produit en promotion](https://rumble.com/shorts/v7gdvvc)
-8. [Description détaillée](https://rumble.com/v7gdw00-8.-description-detaillee.html)
-9. [Créer une catégorie](https://rumble.com/shorts/v7gdw24)
-10. [Ajouter un produit à une catégorie](https://rumble.com/shorts/v7gdw5g)
-11. [Simuler une commande](https://rumble.com/shorts/v7gdw7e)
-12. [Traiter une commande](https://rumble.com/v7gdwaa-12.-traiter-une-commande.html)
-13. [Code promo](https://rumble.com/shorts/v7gdwca)
-14. [Les comptes administrateurs](https://rumble.com/shorts/v7gdwf8)
-15. [Les abonnements](https://rumble.com/shorts/v7gdwio)
-16. [Liens de gestion des commandes](https://rumble.com/v7gdwn4-16.-liens-de-gestion-des-commandes.html)
-
-</details>
+🔗 **Live demo:** [voicify-demo.vercel.app](https://voicify-demo.vercel.app/)
 
 ## 📦 Open source
 
