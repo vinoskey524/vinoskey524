@@ -58,7 +58,7 @@ I take features end to end, from database schema and APIs to polished, high-perf
 
 - I use AI coding assistants across the build cycle: scaffolding features, debugging, refactoring, writing tests, and drafting documentation, to build apps faster and iterate quickly.
 - I treat AI output as a first draft: I review, test, and take ownership of every change before it ships.
-- I combine AI-accelerated workflows with strong fundamentals in TypeScript, React, and PostgreSQL to deliver reliable, user-facing products with a small team.
+- I combine AI-accelerated workflows with strong fundamentals in TypeScript, React, and PostgreSQL to deliver reliable products that users can count on.
 
 ## 🔊 Voicify
 
